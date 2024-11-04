@@ -3,7 +3,7 @@ title = "About me"
 date = "2024-11-04"
 draft = false
 pinned = false
-image = "img_3879-3-.jpg"
+image = "img_3879-1-.jpg"
 +++
 Heyy, ich bin Mili! 
 Willkommen auf meinem Blog!
