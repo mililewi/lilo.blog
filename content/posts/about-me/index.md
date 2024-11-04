@@ -2,7 +2,7 @@
 title = "About me"
 date = "2024-11-04"
 draft = false
-pinned = false
+pinned = true
 image = "img_3879-1-.jpg"
 +++
 Heyy, ich bin Mili! 
