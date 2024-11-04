@@ -6,6 +6,6 @@ title = "Home"
 url = "/"
 
 [[link]]
-url = "/about me/"
+url = "/About me/"
 title = "About me"
 +++
