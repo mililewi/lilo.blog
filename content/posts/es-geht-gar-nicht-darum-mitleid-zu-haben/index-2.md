@@ -10,9 +10,9 @@ description = ""
 
 Der 34-jährige Florin Hofer ist Betriebsleiter zweier inklusiver Restaurants in Bern. Im Interview erzählt er über Inklusion und wo unsere Gesellschaft heute steht.
 
-###### Lenia Aeschbacher & Emilia Lewis
-
 {{</lead>}}
+
+Lenia Aeschbacher & Emilia Lewis
 
 ![Betriebsleiter Florin Hofer mit Wildschwein Gudrun im Hintergrund](img_4838-1-.jpg)
 
