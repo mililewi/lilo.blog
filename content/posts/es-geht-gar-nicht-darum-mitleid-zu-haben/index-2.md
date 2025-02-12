@@ -4,9 +4,21 @@ date = "2025-02-12"
 draft = false
 pinned = false
 image = "img_4838-1-.jpg"
-description = "Der 34-jährige Florin Hofer ist Betriebsleiter zweier inklusiver Res-taurants in Bern. Im Interview erzählt er über Inklusion und wo unsere Gesellschaft heute steht.\n\nLenia Aeschbacher & Emilia Lewis"
+description = ""
 +++
 ![Betriebsleiter Florin Hofer mit Wildschwein Gudrun im Hintergrund](img_4838-1-.jpg)
+
+<!--StartFragment-->
+
+{{<lead>}}
+
+Der 34-jährige Florin Hofer ist Betriebsleiter zweier inklusiver Restaurants in Bern. Im Interview erzählt er über Inklusion und wo unsere Gesellschaft heute steht.
+
+Lenia Aeschbacher & Emilia Lewis
+
+{{</lead>}}
+
+<!--EndFragment-->
 
 Ein Wildschwein beobachtet die Hereintretenden. Doch nicht nur es ist aufmerksam, wir werden sofort freundlich von einer Mitarbeiterin begrüsst. Wir befinden uns in einem geräumigen, heimelig eingerichteten Raum. Aus der Küche weht ein himmlischer Duft. Auf unsere Frage nach dem Betriebsleiter zeigt die Mitarbeiterin auf einen geschäftigen Mann mit dunkelblonden Haaren und Brille. Er sitzt an einem der Tische des menschenleeren Restaurants. Freundlich werden wir begrüsst, er bietet uns sofort das Du an. Später wird er darüber lachen, wenn wir ihn aus Gewohnheit siezen.
 
@@ -37,3 +49,19 @@ Sie verlassen uns nicht so schnell, und wenn, dann nicht so gerne. Sie sind sehr
 **Was wünschen Sie sich von der Gesellschaft, um inklusives Arbeiten weiter zu fördern?** 
 
 Man hat gemerkt, dass der Arbeitsmarkt sich in der Zukunft weiter verändern wird.Wenn immer alles gleich bleibt, dann entwickelt man sich auch nicht weiter. Und das bedeutet Stillstand, und Stillstand macht alt, auch im Kopf. Ich finde, dass der Wandel, in dem wir gerade drin sind, viel Raum bietet, weil sich das Grundverständnis für viele Sachen verändert. Unsere Nachkommen sollen auch auf dieser Welt leben können und da muss sich die Arbeitswelt auch mitverändern. In der Gesellschaft ist es sehr wichtig, dass das Thema immer wieder zu einem Politikum wird. Doch reden allein reicht nicht. Man muss den Mut beweisen, es einfach zu probieren, mit der Gefahr zu scheitern. Aber scheitern heisst ja nicht, dass man etwas Schlechtes macht, sondern dass man etwas versucht hat. Unsere Gesellschaft muss im Kern mehr Mut beweisen. Die inklusive Arbeit gibt auch die Chance, mehr Mut zu zeigen.
+
+
+
+<!--StartFragment-->
+
+{{<box>}}
+
+<!--EndFragment-->
+
+Florin Hofer ist in Bern aufgewachsen, wo er mit seiner Partnerin und dem Dackel Pinot lebt. Seit 2020 ist er Betriebsleiter des Provisorium 46 und mittlerweile auch von der Lorraine 22. Ausserdem ist er Berufsbildner und somit der Begleiter für die Lernenden in allen Betrieben. Schon früher habe er den direkten Bezug zu den Leuten vorgelebt. In seinem jetzigen Job sei es aber ein etwas anderes führen, etwas weniger direktiv, sondern im direkten Dialog. In seinen Worten: „Ich bin einfach Flo und man muss nicht vor mir zusammenzucken, wenn man mich sieht“. 
+
+<!--StartFragment-->
+
+{{</box>}}
+
+<!--EndFragment-->
