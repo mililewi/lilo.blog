@@ -1,7 +1,7 @@
 +++
 title = "Es geht gar nicht darum, Mitleid zu haben "
 date = "2025-02-12"
-draft = true
+draft = false
 pinned = false
 image = "img_4838-1-.jpg"
 description = "Der 34-jährige Florin Hofer ist Betriebsleiter zweier inklusiver Res-taurants in Bern. Im Interview erzählt er über Inklusion und wo unsere Gesellschaft heute steht.\n\nLenia Aeschbacher & Emilia Lewis"
