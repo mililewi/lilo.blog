@@ -1,6 +1,6 @@
 +++
 title = "Es geht gar nicht darum, Mitleid zu haben"
-date = "2025-02-12"
+date = "2025-01-31"
 draft = false
 pinned = false
 image = "img_4838-1-.jpg"
