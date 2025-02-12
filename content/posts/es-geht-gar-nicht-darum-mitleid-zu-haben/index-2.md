@@ -48,6 +48,6 @@ Man hat gemerkt, dass der Arbeitsmarkt sich in der Zukunft weiter verändern wir
 
 {{<box>}}
 
-Florin Hofer ist in Bern aufgewachsen, wo er mit seiner Partnerin und dem Dackel Pinot lebt. Seit 2020 ist er Betriebsleiter des Provisorium 46 und mittlerweile auch von der Lorraine 22. Ausserdem ist er Berufsbildner und somit der Begleiter für die Lernenden in allen Betrieben. Schon früher habe er den direkten Bezug zu den Leuten vorgelebt. In seinem jetzigen Job sei es aber ein etwas anderes führen, etwas weniger direktiv, sondern im direkten Dialog. In seinen Worten: „Ich bin einfach Flo und man muss nicht vor mir zusammenzucken, wenn man mich sieht“. 
+Florin Hofer ist in Bern aufgewachsen, wo er mit seiner Partnerin und dem Dackel Pinot lebt. Seit 2020 ist er Betriebsleiter des Provisorium 46 und mittlerweile auch von der Lorraine 22. Ausserdem ist er Berufsbildner und somit der Begleiter für die Lernenden in allen Betrieben. Schon früher habe er den direkten Bezug zu den Leuten vorgelebt. In seinem jetzigen Job sei es aber ein etwas anderes führen, etwas weniger direktiv, sondern im direkten Dialog. In seinen Worten: „Ich bin einfach Flo und man muss nicht vor mir zusammenzucken, wenn man mich sieht“.  jkb,m 
 
 {{</box>}}
