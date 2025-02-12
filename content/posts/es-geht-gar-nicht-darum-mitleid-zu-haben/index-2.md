@@ -6,10 +6,6 @@ pinned = false
 image = "img_4838-1-.jpg"
 description = ""
 +++
-![Betriebsleiter Florin Hofer mit Wildschwein Gudrun im Hintergrund](img_4838-1-.jpg)
-
-
-
 {{<lead>}}
 
 Der 34-jährige Florin Hofer ist Betriebsleiter zweier inklusiver Restaurants in Bern. Im Interview erzählt er über Inklusion und wo unsere Gesellschaft heute steht.
@@ -18,7 +14,7 @@ Der 34-jährige Florin Hofer ist Betriebsleiter zweier inklusiver Restaurants in
 
 {{</lead>}}
 
-
+![Betriebsleiter Florin Hofer mit Wildschwein Gudrun im Hintergrund](img_4838-1-.jpg)
 
 Ein Wildschwein beobachtet die Hereintretenden. Doch nicht nur es ist aufmerksam, wir werden sofort freundlich von einer Mitarbeiterin begrüsst. Wir befinden uns in einem geräumigen, heimelig eingerichteten Raum. Aus der Küche weht ein himmlischer Duft. Auf unsere Frage nach dem Betriebsleiter zeigt die Mitarbeiterin auf einen geschäftigen Mann mit dunkelblonden Haaren und Brille. Er sitzt an einem der Tische des menschenleeren Restaurants. Freundlich werden wir begrüsst, er bietet uns sofort das Du an. Später wird er darüber lachen, wenn wir ihn aus Gewohnheit siezen.
 
